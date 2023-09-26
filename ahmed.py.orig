@@ -1,0 +1,11 @@
+x = input ("enter your name")
+<<<<<<< HEAD
+if x == 'ahmed'
+	print("yes boss! what can i do for you?") // yes was mispelled in the previous code
+=======
+if x == 'ahmed' and x== 'sixty'
+	print("yws boss! what can i do for you?")
+>>>>>>> 8efdd54a32e334fab01005bd5ad6f8fbf536c1db
+else 
+	print("get out of my private property!")
+
